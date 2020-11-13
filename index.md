@@ -2,32 +2,20 @@
 
 ---
 
-### Category Name 1 
+### Programs
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Marvel Character Lookup](http://jimskon.com/class/softdev/zhou1/marvelproject3/marvelproject3.html)
+<img src="images/p1-3-1(2).PNG?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Webchat](http://jimskon.com/class/softdev/team4/webchat/webchat.html)
+<img src="images/webchat.png?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+#Spider
+<img src="images/spider.jpg?raw=true"/>
 
 ---
-
-
 
 
 ---
